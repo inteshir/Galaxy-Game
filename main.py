@@ -328,7 +328,7 @@ class MainWidget(RelativeLayout):
         self.sound_music1.play()
         self.reset_game()
         self.state_game_has_started = True
-        self.menu_widget.opacity = 11
+        self.menu_widget.opacity = 0
 
 
 
